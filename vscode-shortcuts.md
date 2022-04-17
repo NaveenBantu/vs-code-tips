@@ -1,5 +1,6 @@
 Most important VS Code shortcuts to improve your productivity.
 
+## Terminal Shortcuts
 1. To open and close the terminal 
 >
     win: Ctrl + `
@@ -13,6 +14,8 @@ Most important VS Code shortcuts to improve your productivity.
 3. To open a Folder in VS Code
   > Open the Terminal and type "code <FolderName>"
   
+----
+## Tab Shortcuts 
 4. Switch between tabs 
 >
     win: alt + numbers(1,2,3...)
@@ -34,7 +37,9 @@ Most important VS Code shortcuts to improve your productivity.
 >
     win: ctrl + k + w
     mac: cmd + k + w
-  
+    
+---- 
+## Editor Shortcuts 
 8. Toggle Sidebar
 >
     win: ctrl + b
@@ -60,6 +65,8 @@ Most important VS Code shortcuts to improve your productivity.
     win: ctrl + 1 (switch to 1st window), ctrl + 2 (switch to 2nd window)
     mac: cmd + 1 (switch to 1st window), cmd + 2 (switch to 2nd window)
   
+----
+## Navigating around Quickly
 13. Skip between words quickly
 >
     win: ctrl + arrow keys (right and left)
@@ -85,42 +92,44 @@ Most important VS Code shortcuts to improve your productivity.
     win: ctrl + l
     mac: cmd + l
   
-18. Toggle comments
+18. Duplicate a line or selected lines
+>
+    win: alt + shift + arrow (up/down)
+    mac: opt + shift + arrow (up/down)
+    
+19. Move line or selected block
+>
+    win: alt + arrow(up/down)
+    mac: opt + arrow(up/down)
+    
+20. Toggle comments
 >
     win: ctrl + /
     mac: cmd + /
   
-19. Duplicate a line or selected lines
->
-    win: alt + shift + arrow (up/down)
-    mac: opt + shift + arrow (up/down)
-  
-20. To open find and replace dialog
+21. To open find and replace dialog
 >
     win: ctrl + h
     mac: cmd + h
   
-21. To select multiple words in the document
+    
+22. To select multiple words in the document
 >
     win: ctrl + d
     mac: ctrl + d
-  
-22. Set multiple cursors: To edit/enter some text at once in multiple lines
+
+    
+23. Set multiple cursors: To edit/enter some text at once in multiple lines
 >
     win: atl + click
     mac: opt + click
-
-
-23. Move line or selected block
->
-    win: alt + arrow(up/down)
-    mac: opt + arrow(up/down)
   
     
 24. Go directly to a function or a variable
 >
     win: ctrl + shift + o
     mac: cmd + shift + o
+    
   
 25. Go directly to a line
 >
