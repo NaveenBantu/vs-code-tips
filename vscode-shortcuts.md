@@ -1,4 +1,4 @@
-Most important VS Code shortcuts to increase our productivity.
+Most important VS Code shortcuts to improve your productivity.
 
 1. To open and close the terminal 
 >
@@ -13,106 +13,120 @@ Most important VS Code shortcuts to increase our productivity.
 3. To open a Folder in VS Code
   > Open the Terminal and type "code <FolderName>"
   
-3. Switch between tabs 
+4. Switch between tabs 
 >
     win: alt + numbers(1,2,3...)
     mac: opt + numbers(1,2,3...)
   
-4. When there are multiple tabs you can search easily with
+5. When there are multiple tabs you can search easily with
 >
     win: ctrl + p
     mac: cmd + p
   
   note: You can also search and open a certain file in the project with the above shortcut.
   
-5. Close a tab after working on it with 
+6. Close a tab after working on it with 
 >
     win: ctrl + w
     mac: cmd + w
   
-6. Close all opened tabs
+7. Close all opened tabs
 >
     win: ctrl + k + w
     mac: cmd + k + w
   
-7. Toggle Sidebar
+8. Toggle Sidebar
 >
     win: ctrl + b
     mac: cmd + b
   
-8. Zoom in
+9. Zoom in
 >
     win: ctrl + +
     mac: cmd + +
   
-9. Zoom out
+10. Zoom out
 >
     win: ctrl + -
     mac: cmd + -
   
-10. Split editor (side-by-side)
+11. Split editor (side-by-side)
 >
     win: ctrl + \
     mac: cmd + \
   
-11. Switching between split windows
+12. Switching between split windows
 >
     win: ctrl + 1 (switch to 1st window), ctrl + 2 (switch to 2nd window)
     mac: cmd + 1 (switch to 1st window), cmd + 2 (switch to 2nd window)
   
-12. Skip between words quickly
+13. Skip between words quickly
 >
     win: ctrl + arrow keys (right and left)
     mac: opt + arrow keys (right and left)
   
-13. Select multiple words quickly
+14. Select multiple words quickly
 >
     win: ctrl + shift + arrow keys (right and left)
     mac: opt + shift + arrow keys (right and left)
   
-14. Delete a line
+15. Delete a line
 >
     win: ctrl + x
     mac: cmd + x
   
-15. Copy a line
+16. Copy a line
 >
     win: ctrl + c
     mac: cmd + c
     
-16. Highlight a line
+17. Highlight a line
 >
     win: ctrl + l
     mac: cmd + l
   
-16. Toggle comments
+18. Toggle comments
 >
     win: ctrl + /
     mac: cmd + /
-    
-17. Move a Line
->
-    win: alt + arrow (up/down)
-    mac: opt + arrow (up/down)
   
-17. Duplicate a line or selected lines
+19. Duplicate a line or selected lines
 >
     win: alt + shift + arrow (up/down)
     mac: opt + shift + arrow (up/down)
   
-18. To open find and replace dialog
+20. To open find and replace dialog
 >
     win: ctrl + h
     mac: cmd + h
   
-19. To select multiple words in the document
+21. To select multiple words in the document
 >
     win: ctrl + d
     mac: ctrl + d
   
-20. Set multiple cursors: To edit/enter some text at once in multiple lines
+22. Set multiple cursors: To edit/enter some text at once in multiple lines
 >
     win: atl + click
     mac: opt + click
+
+
+23. Move line or selected block
+>
+    win: alt + arrow(up/down)
+    mac: opt + arrow(up/down)
+  
+    
+24. Go directly to a function or a variable
+>
+    win: ctrl + shift + o
+    mac: cmd + shift + o
+  
+25. Go directly to a line
+>
+    win: ctrl + g
+    mac: cmd + g
+
+
 
   
