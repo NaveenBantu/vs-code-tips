@@ -5,8 +5,12 @@ Most important VS Code shortcuts to increase our productivity.
     win: Ctrl + `
     mac: Cmd + `
   
+2. Clear the terminal 
+>
+    win: Ctrl + k
+    mac: Cmd + k
     
-2. To open a Folder in VS Code
+3. To open a Folder in VS Code
   > Open the Terminal and type "code <FolderName>"
   
 3. Switch between tabs 
@@ -75,11 +79,21 @@ Most important VS Code shortcuts to increase our productivity.
 >
     win: ctrl + c
     mac: cmd + c
+    
+16. Highlight a line
+>
+    win: ctrl + l
+    mac: cmd + l
   
-16. Toggle commenting a line
+16. Toggle comments
 >
     win: ctrl + /
     mac: cmd + /
+    
+17. Move a Line
+>
+    win: alt + arrow (up/down)
+    mac: opt + arrow (up/down)
   
 17. Duplicate a line or selected lines
 >
@@ -96,7 +110,7 @@ Most important VS Code shortcuts to increase our productivity.
     win: ctrl + d
     mac: ctrl + d
   
-20. To edit/enter some text at once in multiple lines
+20. Set multiple cursors: To edit/enter some text at once in multiple lines
 >
     win: atl + click
     mac: opt + click
