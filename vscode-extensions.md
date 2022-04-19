@@ -16,3 +16,6 @@ Most important VS Code extensions to improve your productivity.
 8. GitLens
 9. Remote Repositories
 10. Remote SSH and Containers
+
+Nice-to-haves
+1. CodeSnap
